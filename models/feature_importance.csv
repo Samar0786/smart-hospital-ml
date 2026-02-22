@@ -1,0 +1,14 @@
+Feature,Importance
+cat__slope,0.18745278
+cat__thal,0.13313456
+cat__cp,0.11106378
+cat__ca,0.089259036
+cat__sex,0.07040468
+num__oldpeak,0.066259325
+cat__exang,0.060298227
+cat__restecg,0.05237132
+num__trestbps,0.049088724
+num__age,0.048517086
+num__chol,0.04590041
+num__thalach,0.04540582
+cat__fbs,0.040844228
